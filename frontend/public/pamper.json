@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "Pamper Package – Basic",
+    "description": "A refreshing package to uplift your style and spirit.",
+    "includes": [
+      "Basic Haircut",
+      "Beard Trim",
+      "Head Massage",
+      "Relax"
+    ],
+    "memberPrice": "₹300",
+    "image": "https://media.istockphoto.com/id/506514230/photo/beard-grooming.jpg?s=612x612&w=0&k=20&c=QDwo1L8-f3gu7mcHf00Az84fVU8oNpQLgvUw6eGPEkc="
+  },
+  {
+    "id": 2,
+    "title": "Pamper Package – Premium",
+    "description": "A full grooming experience to feel your best.",
+    "includes": [
+      "Haircut + Styling",
+      "Hair Color (Head)",
+      "Beard & Moustache Color",
+      "Facial Cleanup"
+    ],
+    "memberPrice": "₹400",
+    "image": "https://cdn.pixabay.com/photo/2020/05/27/01/05/barber-shop-5225273_1280.jpg"
+  }
+]

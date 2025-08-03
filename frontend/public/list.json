@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Fade Haircut",
+    "title": "Clean and modern fade haircut with sharp edges.",
+    "price": 150,
+    "rating": 4.7, 
+    "category": "Men",
+    "image": "https://imgs.search.brave.com/nYuZvyWnQRgbtT4WHdqeJgnE0R12GyTRladaHQXNouM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YnlyZGllLmNvbS90/aG1iL0Q2Nk9qU1pa/UlNFd1BQbDMtVVNt/TTdfN3NFYz0vMTUw/MHgwL2ZpbHRlcnM6/bm9fdXBzY2FsZSgp/Om1heF9ieXRlcygx/NTAwMDApOnN0cmlw/X2ljYygpLzI5NDE0/NTE5XzQyMjg1NTA2/NDgzODM1MF8xMjky/ODQ1NjI0OTQwNTYw/Mzg0X24tODhjYTlh/ZDVlMGEwNDMwYjgx/NmQxYzhkZWJlM2Ri/MDkuanBn"
+  },
+  {
+    "id": 2,
+    "name": "Taper Fade Haircut",
+    "title": "Stylish layer cut for added volume and movement.",
+    "price": 150,
+     "rating": 4.7,
+    "category": "Men",
+    "image": "https://imgs.search.brave.com/EyWe-a6MRfq98iftgVSlfgav9nHEdsD1GaRtq2e04zU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZW5z/aGFpcmN1dHMuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIz/LzA0L3RhcGVyLWZh/ZGUtaGFpcmN1dC1j/bGFzc3ktbWlkLTY4/M3gxMDI0LmpwZw"
+  },
+  {
+    "id": 3,
+    "name": "Low-Fade Haircut",
+    "title": "Trendy Low-Fade Haircut.",
+    "price": 150, 
+    "rating": 4.5,
+    "category": "Men",
+    "image": "https://imgs.search.brave.com/axeeCM_ny5NAtfBgzi7hWF7BGG9ODHyU1vXfBzxT6OI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jb250/ZW50LmxhdGVzdC1o/YWlyc3R5bGVzLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvbG93/LWJ1enotZmFkZS1v/bi1ndXlzLXNob3J0/LXRleHR1cmVkLWFu/ZC1ibG9uZGUtaGFp/ci5qcGc"
+  },
+  {
+    "id": 4,
+    "name": "Mullet Haircut",
+    "title": "Classic  Mullet cut for a neat and professional look.",
+    "price": 150,
+     "rating": 4.2,
+    "category": "Men",
+    "image": "https://imgs.search.brave.com/Ra_PByqdSXaNk27vJOaJpeyUgsc9zSiJnXEMzwYbcbw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGlmeS5jb20v/cy9maWxlcy8xLzA2/MzkvMTIzNy84NjAy/L2ZpbGVzL01vZGVy/bl9NdWxsZXRfMV9l/YjUxY2UxYy03ZWUy/LTQxNzgtYjExMi05/MDM5MjlkMGQ0YmFf/NDgweDQ4MC5qcGc_/dj0xNzE0NjUwMzI1"
+  },
+  {
+    "id": 5,
+    "name": "Kids Trim",
+    "title": "Comfortable and quick haircut for kids.",
+    "price": 150,
+    "category": "Kids",
+     "rating": 4.0,
+    "image": "https://imgs.search.brave.com/JwMqN4YYZ2C1KhLMpJ0HfXLy1A3mNiK_o5sQms06wuE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWly/Y3V0aW5zcGlyYXRp/b24uY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy9oYWlyY3V0cy1m/b3Ita2lkcy1hbGV4/dGhlYmFyYmVyMzA1/LmpwZw"
+  },
+  {
+    "id": 6,
+    "name": "Military Skin Fade Haircut",
+    "title": " Military cut for clean look.",
+    "price": 150,
+     "rating": 4.8,
+    "category": "Men",
+    "image": "https://imgs.search.brave.com/7pp8TMGLeeEEQOINsdHa2PZGpH3luZg5jtWJU9c-yUE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bWVuc2hhaXJzdHls/ZXN0b2RheS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjIv/MDIvTWlsaXRhcnkt/U2tpbi1GYWRlLUhh/aXJjdXQuanBnLndl/YnA"
+  },
+  {
+    "id": 7,
+    "name": " Blunt Haircut",
+    "title": "Short Blunt cut for a bold style.",
+    "price": 150,
+     "rating": 4.1,
+    "category": "Women",
+    "image": "https://imgs.search.brave.com/ZrHg-yI6J_sAH_CYJ9PV4QwaHowBy04IVVK-y-11byw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzQ1L2Ey/LzZlLzQ1YTI2ZWNj/ZDhhOTU5NzJkMmFj/NzI0Mzc0OTllYzZm/LmpwZw"
+  },
+  {
+    "id": 8,
+    "name": "Beard Cut",
+    "title": "Sharp and edgy Beard Cut.",
+    "price": 150,
+     "rating": 4.8,
+    "category": "Men",
+    "image": "https://imgs.search.brave.com/KCM-Nb0qPkjIMtr7dEe1NwNXk87djqJRzxRZc9ErWrg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzg2Lzdi/L2Q3Lzg2N2JkNzlj/YmJjOTRlOTA2YWI1/MDMwZTkwNDQ3NTA4/LmpwZw"
+  },
+  {
+    "id": 9,
+    "name": "Crew Cut",
+    "title": "Simple and classy crew cut.",
+    "price": 150,
+     "rating": 4.2,
+    "category": "Men",
+    "image": "https://imgs.search.brave.com/hAk8713fnI8IKJTgIqtPmPyxytlYVwCDuGHTU2AIsXM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bWVuc2hhaXJzdHls/ZXN0b2RheS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MDUvQ3Jldy1DdXQt/TG93LUZhZGUtSGFp/cmN1dC5qcGc"
+  },
+  {
+    "id": 10,
+    "name": " Simple Haircut",
+    "title": "Simple and classy cut.",
+    "price": 150,
+     "rating": 4.5,
+    "category": "Men",
+    "image": "https://imgs.search.brave.com/gx87vg-11Sc9sauvx5_lhCXKjPFTCazSfPZsh2vaCg4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vdGhlcmln/aHRoYWlyc3R5bGVz/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyNC8xMC8yMS1w/b21wYWRvdXItZmFk/ZS1oYWlyc3R5bGUt/Zm9yLW1lbi1vdmVy/LTUwLmpwZz9yZXNp/emU9Nzk0LDg3NCZz/c2w9MQ"
+  },
+  {
+    "id": 11,
+    "name": "Side Part Haircut",
+    "title": "Classic side part style with gel finish.",
+    "price": 150,
+     "rating": 4.4,
+    "category": "Men",
+    "image": "https://imgs.search.brave.com/CRzGWv7rfAFFUsDuYWJ0gV5c7-06GWR63r3b3MYRGiY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZmFzaGlvbmJlYW5z/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMS8xMi9IYXJk/LVBhcnQtRmFkZS1I/YWlyY3V0X21hbmVp/YWNfYmFyYmVyc2hv/cC5qcGc"
+  },
+  {
+    "id": 12,
+    "name": " Buzz Cut",
+    "title": "Specialized cut for Men.",
+    "price": 150,
+     "rating": 4.7,
+    "category": "Men",
+    "image": "https://imgs.search.brave.com/0oQ-YPu6jlADP_uHQ4V5DkGs483f32h0cVhTfSEW13g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzliLzQw/LzdkLzliNDA3ZGFh/NWI1YmYyZWUzOWU3/MzIwMjM4NDZjNGRi/LmpwZw"
+  }
+]

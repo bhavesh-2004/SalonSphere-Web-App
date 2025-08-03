@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "O3 Facial",
+    "description": "Elevate your skincare with SalonSphere Men's Salon's O3 Facial-detoxifying, nourishing, and rejuvenating for flawless skin.",
+    "memberPrice": "₹300",
+    "image": "https://imgs.search.brave.com/RkaRvLa8ZptPiDg2iefcVZG16nugTEIMa3aJfcqUW78/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZnJlc2hhLmNv/bS9sZWFkLWltYWdl/cy9wbGFjZWhvbGRl/cnMvYmVhdXR5LXNh/bG9uLTIuanBnP2Ns/YXNzPXdpZHRoLXNt/YWxs"
+  },
+  {
+    "id": 2,
+    "title": "Gold Facial",
+    "description": "Discover luxury with  SalonSphere Gold Facial, blending gold's anti-aging magic with deep nourishment for your skin.",
+    "memberPrice": "₹500",
+    "image": "https://images.deepai.org/art-image/aa3fc7a79d1b48499967a5862ab58da9/the-complete-facial-guide-for-men-its-gold-facial-in-.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Multani Mati",
+    "description": "Multani Mati( Fuller's Earth) Designed specifically for men, the Multani Mati Facial addresses the challenges of male skin.",
+    "memberPrice": "₹150",
+    "image": "https://images.deepai.org/art-image/067a644423114353b849d8577005b397/a-high-resolution-photograph-of-a-professional-male-s.jpg"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Grooming Package – Basic",
+    "description": "A refreshing package to uplift your style and spirit.",
+    "includes": [
+      "Basic Haircut",
+      "Beard Trim",
+      "Head Massage",
+      "Relax",
+      "Beard & Moustache Color",
+      "Charcoal Detox Facial",
+      "Facial Cleanup"
+    ],
+    "memberPrice": "₹500",
+    "image": "https://imgs.search.brave.com/dWsSahX23_61Pc3Dc02nlwlpTkOyIHelVzsIejBya9A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQ1/NjIyMDAwMi9waG90/by9tYWxlLXN0eWxp/c3QtcGVyZm9ybXMt/aGFpcmN1dC10by1h/LWNsaWVudC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9b2Vn/eUo4X1FpeGdZSl9s/ZU5uaXF1aDFxYkxQ/SnQ1ZFY1cFplNlBC/ZzEwMD0"
+  },
+  {
+    "id": 2,
+    "title": "Grooming Package – Premium",
+    "description": "A full grooming experience to feel your best.",
+    "includes": [
+      "Basic Haircut",
+      "Beard Trim/shaving",
+      "Head Massage",
+      "Detan Facial",
+      "Gold Facial",
+      "Steam Process",
+      "Facial Cleanup"
+    ],
+    "memberPrice": "₹700",
+    "image": "https://media.istockphoto.com/id/506514230/photo/beard-grooming.jpg?s=612x612&w=0&k=20&c=QDwo1L8-f3gu7mcHf00Az84fVU8oNpQLgvUw6eGPEkc="
+  }
+]

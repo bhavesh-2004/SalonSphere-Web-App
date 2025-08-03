@@ -17,7 +17,9 @@ SalonSphere is a responsive React web app that lets users easily book salon appo
 Users can easily send queries or feedback via the contact form, which is delivered directly to the SalonSphere admin email.
 
 🛠 Tech Stack
-Frontend
+
+Frontend:
+
 React + Vite
 
 Tailwind CSS
@@ -28,7 +30,8 @@ React Hook Form
 
 Lucide Icons
 
-Backend
+Backend: 
+
 Node.js + Express
 
 MongoDB + Mongoose

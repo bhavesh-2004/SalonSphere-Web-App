@@ -43,7 +43,9 @@ const navigate = useNavigate();
     };
 
     try {
-      const res = await axios.post("http://localhost:4001/user/book", userInfo);
+      // const res = await axios.post("http://localhost:4001/user/book", userInfo);
+      const res = await axios.post(`${import.meta.env.VITE_BACKEND_URL}/user/book`, userInfo);
+
       console.log(res.data);
       if (res.data) {
         // alert("Appointment Booked Successfully");

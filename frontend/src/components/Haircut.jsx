@@ -16,7 +16,9 @@ function Haircut() {
   useEffect(() =>{
     const getSalon=async() =>{
       try {
-      const res =  await axios.get("http://localhost:4001/salon");
+      // const res =  await axios.get("http://localhost:4001/salon");
+      const res = await axios.get(`${import.meta.env.VITE_BACKEND_URL}/salon`);
+
         console.log(res.data);
         setSalon(res.data)
         

@@ -46,7 +46,9 @@ const [groomPackage, setGroomPackage] = useState([]);
 useEffect(() => {
   const getGroomPackage = async () => {
     try {
-      const res = await axios.get("http://localhost:4001/groom");
+      // const res = await axios.get("http://localhost:4001/groom");
+      const res = await axios.get(`${import.meta.env.VITE_BACKEND_URL}/groom`);
+
       console.log(res.data);
       setGroomPackage(res.data);
     } catch (error) {

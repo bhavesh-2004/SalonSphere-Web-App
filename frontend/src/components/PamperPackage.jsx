@@ -30,7 +30,9 @@ const PamperPackage = () => {
 useEffect(() => {
   const getPamperPackages = async () => {
     try {
-      const res = await axios.get("http://localhost:4001/pamper");
+      // const res = await axios.get("http://localhost:4001/pamper");
+      const res = await axios.get(`${import.meta.env.VITE_BACKEND_URL}/pamper`);
+
       console.log(res.data);
       setPamperPackages(res.data);
     } catch (error) {

@@ -1,6 +1,7 @@
  import React from 'react'
  import Typewriter from 'typewriter-effect';
  import banner from  '../../public/banner.jpg'
+ 
  function Banner() {
    return (
      <>

@@ -1,5 +1,7 @@
 
 import React from "react";
+import toast from 'react-hot-toast';
+
 
 export const Contacts = () => {
   const handleFormSubmit = async (event) => {
@@ -16,10 +18,16 @@ export const Contacts = () => {
     const result = await response.json();
 
     if (result.success) {
-      alert("✅ Message sent successfully!");
+      // alert("✅ Message sent successfully!");
+        toast.success("Message sent successfully!");
+
+
       event.target.reset();
     } else {
-      alert("❌ Failed to send message. Please try again later.");
+      // alert("❌ Failed to send message. Please try again later.");
+         toast.error("❌ Failed to send message. Please try again later." );
+
+
     }
   };
 

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "THE BASICS",
+    "image": "https://imgs.search.brave.com/YEJJAR6plwsd_S5eeh0g3xR1MVz2VAbXmx_xunqXWpU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9t/YW4tYmFyYmVyc2hv/cC1zYWxvbi1kb2lu/Zy1oYWlyY3V0LWJl/YXJkLXRyaW1fMTMw/My0yMDk1MS5qcGc_/c2VtdD1haXNfaHli/cmlkJnc9NzQw",
+    "link": "basichaircut/"
+  },
+  {
+    "title": "HAIR COLOR",
+    "image": "https://imgs.search.brave.com/rgx9XdFct_Dpr_gsJ45FVWRHhFQ1mgnr5TV3YcUSuoA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YXBldG9nZW50bGVt/YW4uY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIyLzAzL2hh/aXItZHllLW1lbi1z/YWxvbi5qcGc",
+    "link": "haircolor/"
+  },
+  {
+    "title": "FACIALS",
+    "image": "https://imgs.search.brave.com/iI2Keu9WbRivlw7fe68dMJ_vLm9U6YUMplPxHKE5dME/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA2LzY1Lzc4Lzcx/LzM2MF9GXzY2NTc4/NzE2Nl9UTmNhU3VD/S251YkI3cnFMUUR6/ZW5hSlc1NjUxT1JO/cS5qcGc",
+    "link": "facials/"
+  },
+  {
+    "title": "PAMPER PACKAGES",
+    "image": "https://imgs.search.brave.com/DHfxOiOnAvUPzcC8Usuzx7XiMTpLK6iv8fN08mDqsVs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZnJlc2hhLmNv/bS9sZWFkLWltYWdl/cy9wbGFjZWhvbGRl/cnMvYmFyYmVyc2hv/cC02OC5qcGc_Y2xh/c3M9d2lkdGgtc21h/bGw",
+    "link": "pamperpackage/"
+  },
+  {
+    "title": "GROMMING PACKAGE",
+    "image": "https://imgs.search.brave.com/h18-8PkpXiPeV5wlli6yA-jpf5qKCAXO9AkqaZSlS0c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNTYv/NjUwLzk2MS9zbWFs/bC9oYW5kc29tZS1t/YW4tbW9kZWxzLWVs/ZWdhbnQtZW1icm9p/ZGVyZWQtc2hhbHdh/ci1rYW1lZXotcGhv/dG8uanBlZw",
+    "link": "groomingpackage/"
+  },
+  {
+    "title": "Hair Setting",
+    "image": "https://imgs.search.brave.com/rTyM5zPSNSNLK5sTqy5pzpu48MWjSWgKzLqy3bQifRM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9o/YWlyZHJlc3Nlci11/c2luZy1kcmllci1o/YWlyLWNsaWVudF8y/My0yMTQ3Nzc4Nzk0/LmpwZz9zZW10PWFp/c19oeWJyaWQ",
+    "link": "hairsetting/"
+  }
+]

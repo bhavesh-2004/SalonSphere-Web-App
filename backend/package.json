@@ -1,0 +1,28 @@
+{
+  "name": "salonsphere",
+  "version": "1.0.0",
+  "description": "mern mega project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavesh-2004/SalonSphere.git"
+  },
+  "author": "Bhavesh Sonawane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhavesh-2004/SalonSphere/issues"
+  },
+  "homepage": "https://github.com/bhavesh-2004/SalonSphere#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.5",
+    "nodemon": "^3.1.10"
+  }
+}

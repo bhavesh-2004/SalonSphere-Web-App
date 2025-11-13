@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Hair Styling – Express",
+    "description": "Quick and clean hair setting for any occasion.",
+    "includes": [
+      "Light Gel Styling",
+      "Final Touch Spray"
+    ],
+    "memberPrice": "₹80",
+    "image": "https://img77.uenicdn.com/image/upload/v1520613849/service_images/shutterstock_380386777.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Hair Styling – Premium",
+    "description": "Make a statement with our premium hair setting session.",
+    "includes": [
+      "Wax/Gel Styling",
+      "Hair Spray Finish"
+    ],
+    "memberPrice": "₹100",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.R0w6USAcNfd56aPrUJgwTAHaEo?pid=Api&P=0&h=180"
+  }
+]

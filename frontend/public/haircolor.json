@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Head",
+    "description": "Achieve a vibrant, uniform look with our full Head hair colour service, tailored to reflect your style.",
+    "memberPrice": "₹100",
+    "image": "https://media.istockphoto.com/id/2209387426/photo/male-hairdresser-dyeing-hair-of-the-female-client-at-the-beauty-salon-hairdresser-applying.jpg?s=612x612&w=0&k=20&c=QOLOt1P0iBT_Hzi0ylYhx3jt5CeAZJtm_mrh_MZxSQA="
+  },
+  {
+    "id": 3,
+    "title": "Head + Beard + Moustache",
+    "description": "Refine your look with our Beard + Moustache colouring service, designed for a cohesive appearance.",
+    "memberPrice": "150",
+    "image": "https://imgs.search.brave.com/rgx9XdFct_Dpr_gsJ45FVWRHhFQ1mgnr5TV3YcUSuoA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YXBldG9nZW50bGVt/YW4uY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIyLzAzL2hh/aXItZHllLW1lbi1z/YWxvbi5qcGc"
+  },
+  {
+    "id": 2,
+    "title": "Moustache",
+    "description": "Enhance your moustache Add a splash of color to your moustache subtle or striking. Perfect for a fresh, personalized look.",
+    "memberPrice": "₹70",
+    "image": "https://images.deepai.org/art-image/8ed94c00763f418c9bb5be99d2cebe54/moustache-black-coloring-in-salon.jpg"
+  }
+]

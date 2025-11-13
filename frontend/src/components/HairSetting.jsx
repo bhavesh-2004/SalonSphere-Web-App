@@ -36,7 +36,9 @@ const [hairSets, setHairSets] = useState([]);
 useEffect(() => {
   const getHairSets = async () => {
     try {
-      const res = await axios.get("http://localhost:4001/hairset");
+      // const res = await axios.get("http://localhost:4001/hairset");
+      const res = await axios.get(`${import.meta.env.VITE_BACKEND_URL}/hairset`);
+
       console.log(res.data);
       setHairSets(res.data);
     } catch (error) {

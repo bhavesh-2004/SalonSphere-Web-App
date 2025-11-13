@@ -48,7 +48,9 @@ const HairColorServices = () => {
   useEffect(() => {
     const getHairColors = async () => {
       try {
-        const res = await axios.get("http://localhost:4001/haircolor");
+        // const res = await axios.get("http://localhost:4001/haircolor");
+        const res = await axios.get(`${import.meta.env.VITE_BACKEND_URL}/haircolor`);
+
         console.log(res.data);
         setHairColors(res.data);
       } catch (error) {

@@ -42,7 +42,9 @@ const [facialServices, setFacialServices] = useState([]);
 useEffect(() => {
   const getFacialServices = async () => {
     try {
-      const res = await axios.get("http://localhost:4001/facial");
+      // const res = await axios.get("http://localhost:4001/facial");
+      const res = await axios.get(`${import.meta.env.VITE_BACKEND_URL}/facial`);
+
       console.log(res.data);
       setFacialServices(res.data);
     } catch (error) {

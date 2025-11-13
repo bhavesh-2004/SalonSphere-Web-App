@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "688a571069b2d302bc0d6cac"
+  },
+  "id": 1,
+  "title": "Hair Cut + Wash",
+  "description": "Look sharp and feel clean with our combined stylish haircut and refreshing wash.",
+  "memberPrice": "₹160",
+  "image": "https://imgs.search.brave.com/cMr3CD6hVEka-8SDQ2PfERYDWKc9QW-jtT9vjtTTXoM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9jbGFzc2ljLWhh/aXJjdXQtYmFyYmVy/c2hvcC1jdXJ2ZS1o/YWlyLXN0eWxpbmct/aGFpci1oZWFsdGgt/Y2FyZS1iYXJiZXJz/aG9wLW1lbi1zXzIx/NzMzMy0zNzguanBn/P3NlbXQ9YWlzX2l0/ZW1zX2Jvb3N0ZWQm/dz03NDA"
+},
+{
+  "_id": {
+    "$oid": "688a571069b2d302bc0d6cad"
+  },
+  "id": 2,
+  "title": "Kids Hair Cut",
+  "description": "Enjoyable and gentle haircuts for kids under 5, ensuring a memorable, fuss-free salon visit.",
+  "memberPrice": "₹100",
+  "image": "https://media.istockphoto.com/id/680907176/photo/little-boy-getting-haircut-by-barber-while-sitting-in-chair-at-barbershop.jpg?s=612x612&w=0&k=20&c=pjQ1u-clewaVhuVzJfguXE29upc0-dg79bY4XCpR8t4="
+},
+{
+  "_id": {
+    "$oid": "688a571069b2d302bc0d6cae"
+  },
+  "id": 3,
+  "title": "Head Shave",
+  "description": "Opt for a sleek look with our comfortable, thorough Head Shave, perfect for a bold change.",
+  "memberPrice": "₹100",
+  "image": "https://imgs.search.brave.com/KL_qcBmj7wVXJ4ytXwb8y1nRmNdbfvBRyljKmtOoQGg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA0LzQ3LzI0LzIw/LzM2MF9GXzQ0NzI0/MjAyNl9sQjI4VmlN/M3k5SnhVQTI2NUtu/Rktsc3BLaEJ1U1JP/Wi5qcGc"
+},
+{
+  "_id": {
+    "$oid": "688a571069b2d302bc0d6caf"
+  },
+  "id": 4,
+  "title": "Beard & Moustache Trim",
+  "description": "Shape your beard and moustache with precision for a clean, defined, and stylish look.",
+  "memberPrice": "₹100",
+  "image": "https://imgs.search.brave.com/ORn8g1QWxzHEkxyUoL5xQ7bciuPi7qt_JA5sqicdVTA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3RmYXNzZXRz/Lm5ldC9od3loODEy/enNqODAvMnFGWDBy/bWoxZWk2UjNBakRk/eHhwZy80NGMyYTRi/OWMwNjgwNTg5MzM3/Y2ViMDYwZTM0NmFh/MS9UaGUtYmVzdC1i/YXJiZXJzLWluLUNh/bWJlcndlbGxfXzFf/LmpwZw"
+},
+{
+  "_id": {
+    "$oid": "688a571069b2d302bc0d6cb0"
+  },
+  "id": 5,
+  "title": "Clean Shave",
+  "description": "Get the ultimate smooth finish with our clean and refreshing shaving experience.",
+  "memberPrice": "₹80",
+  "image": "https://imgs.search.brave.com/ZMGDVrrivWAoLBEja7pPPHG3ju7AwG5g2W0QMvGBp6k/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9vcGVu/dGV4dGJjLmNhL2Fj/Y2Vzc2liaWxpdHl0/b29sa2l0L3dwLWNv/bnRlbnQvdXBsb2Fk/cy9zaXRlcy8zMzUv/MjAyMS8wMy9JTUdf/MDI4Ny5wbmc"
+},
+{
+  "_id": {
+    "$oid": "688a571069b2d302bc0d6cb1"
+  },
+  "id": 6,
+  "title": "Face Wash",
+  "description": "Deep cleanse your skin and remove impurities with our refreshing face wash treatment.",
+  "memberPrice": "₹80",
+  "image": "https://images.deepai.org/art-image/234f29da6bb34fd7aca98b11fa0bcaac/face-washing-by-barber-in-salon-thumb.jpg"
+}]

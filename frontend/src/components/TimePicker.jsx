@@ -6,31 +6,6 @@ const hours = Array.from({ length: 12 }, (_, i) => (i + 1).toString());
 const minutes = Array.from({ length: 60 }, (_, i) => i.toString().padStart(2, '0'));
 const periods = ['AM', 'PM'];
 
-// Helper function to format time for backend
-export function formatTimeForBackend(hour, minute, period) {
-  // Ensure hour is padded with zero if needed (e.g., "9" becomes "09")
-  const formattedHour = hour.padStart(2, '0');
-  // Minute should already be padded from your options
-  return `${formattedHour}:${minute} ${period}`;
-}
-
-// Helper to parse time from backend
-export function parseTimeFromBackend(timeString) {
-  if (!timeString) return { hour: '9', minute: '00', period: 'AM' };
-  
-  const [time, period] = timeString.split(' ');
-  const [hour, minute] = time.split(':');
-  
-  // Remove leading zero from hour for display (e.g., "09" becomes "9")
-  const displayHour = hour.replace(/^0/, '');
-  
-  return {
-    hour: displayHour,
-    minute,
-    period
-  };
-}
-
 export default function TimePicker({
   selectedHour,
   setSelectedHour,

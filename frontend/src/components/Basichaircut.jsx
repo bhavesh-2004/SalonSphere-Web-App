@@ -68,7 +68,9 @@ const HairServices = () => {
 useEffect(() => {
   const getBasicCuts = async () => {
     try {
-      const res = await axios.get("http://localhost:4001/basic");
+      // const res = await axios.get("http://localhost:4001/basic");
+      const res = await axios.get(`${import.meta.env.VITE_BACKEND_URL}/basic`);
+
       console.log(res.data);
       setBasicCuts(res.data);
     } catch (error) {

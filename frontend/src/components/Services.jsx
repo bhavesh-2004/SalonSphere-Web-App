@@ -11,7 +11,9 @@ const [service, setServices] = useState([]);
 useEffect(() => {
   const getServices = async () => {
     try {
-      const res = await axios.get("http://localhost:4001/service"); // Make sure the endpoint matches your backend
+      // const res = await axios.get("http://localhost:4001/service"); // Make sure the endpoint matches your backend
+      const res = await axios.get(`${import.meta.env.VITE_BACKEND_URL}/service`); // Make sure the endpoint matches your backend
+
       console.log(res.data);
       setServices(res.data);
     } catch (error) {

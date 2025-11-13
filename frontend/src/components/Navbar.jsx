@@ -117,7 +117,27 @@ const navItems = (
 </ul>
 
     </div>
-    <a className="text-2xl font-bold cursor-pointer ">SalonSphere</a>
+   <a href="/" className="bg-white text-black  dark:bg-slate-900 dark:text-white  font-bold text-xl md:text-2xl flex items-center space-x-2 cursor-pointer">
+  {/* <img src="salon-logo.png" alt="SalonSphere Logo" className="h-10 w-10" /> */}
+  <span>SalonSphere</span>
+</a>
+
+
+{/* <a
+  href="/"
+  className="font-bold text-xl md:text-2xl flex items-center space-x-2 cursor-pointer bg-white text-black dark:bg-slate-900 dark:text-white"
+>
+  <img
+    src={theme === 'dark' ? 'hairdresser-white1.png' : 'hairdresser-dark.png'}
+    alt="SalonSphere Logo"
+    className="h-10 w-10 transition duration-300"
+  />
+  <span>SalonSphere</span>
+</a> */}
+
+
+ 
+
   </div>
 
     <div className="navbar-end space-x-3">
